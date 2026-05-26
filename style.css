@@ -1,1 +1,33 @@
+body {
+  background: blue;
+  strong{
+   color:red
+ 
+  }
+  h1{
+    color:white;
+    text -aling: center;
+    span{
+      border : 1px solid red;
+      pandding: 10px;
+    }
+  } 
+  p{
+    text-aling: center;
+  }
+  img{
+    display: block;
+      width: 100%;
+      height: auto;
+      max-widht 600px
+      margin-left:auto;
+      margin-right:auto:
+    
+  }
+  footer{
+    text-aling: center;
+    strong{
+     color: red; 
+    }
+  
 
